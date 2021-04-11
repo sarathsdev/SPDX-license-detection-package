@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="ADSL"
+            name="Amazon Digital Services License Agreement">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/AmazonDigitalServicesLicense</crossRef>
+      </crossRefs>
+    <text>
+      <titleText>
+         <p>Amazon Digital Services License Source Code License Agreement</p>
+      </titleText>
+      <copyrightText>
+         <p>Copyright(c)  2006 Amazon Digital Services License. All rights reserved.</p>
+      </copyrightText>
+
+      <p>Please read this Source Code License Agreement carefully before using the source code.</p>
+      <p>This software code is made available "AS IS" without warranties of any kind. You may copy, display, modify and</p>
+      <p>redistribute the software code either by itself or as incorporated into your code; provided that you do not remove</p>
+      <p>any proprietary notices. Your use of this software code is at your own risk and you waive any claim against</p>
+       <p>Amazon Digital Services, Inc. or its affiliates with respect to your use of this software code.</p>
+        <p>(c) 2006 Amazon Digital Services, Inc. or its affiliates.</p>
+      <p>THIS SOURCE CODE IS PROVIDED "AS IS" AND "WITH ALL FAULTS", WITHOUT ANY TECHNICAL SUPPORT OR ANY EXPRESSED OR
+         IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+         FOR A PARTICULAR PURPOSE ARE DISCLAIMED. ALSO, THERE IS NO WARRANTY OF NON-INFRINGEMENT, TITLE OR QUIET
+         ENJOYMENT. IN NO EVENT SHALL MACROMEDIA OR ITS SUPPLIERS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+         SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+         GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+         THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+         ARISING IN ANY WAY OUT OF THE USE OF THIS SOURCE CODE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+         DAMAGE.</p>
+    </text>
+  </license>
+</SPDXLicenseCollection>

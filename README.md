@@ -1,5 +1,5 @@
 # SPDX-license-detection-package
-Detecting one of the [SPDX master files] and print it to terminal as markdown.
+Detecting one of the [SPDX master files][FILES-SRC] and print it to terminal as markdown.
 This is attempt to the [idea][IDEA-URI], license detection package in dart. It's for the first example project.
 
 ## Development Approach
